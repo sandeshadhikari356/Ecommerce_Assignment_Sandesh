@@ -12,5 +12,5 @@ The model has been submitted in a public git repository as "Ecommerce_Assingment
 
 Features of this Project
 1. The main features of this project is to store all the information of various exams.
-2. The next feature of to perform CRUDE operations on tables.
+2. The next feature is to perform CRUDE operations on tables.
 3. Provides a GUI to perfrom all these actions easily to the user.
